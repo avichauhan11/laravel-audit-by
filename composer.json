@@ -1,0 +1,22 @@
+{
+    "name": "avi/laravel-audit-by",
+    "description": "Automatically manage created_by, updated_by, and deleted_by fields in Laravel models",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avi\\AuditBy\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10|^11"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Avi\\AuditBy\\AuditByServiceProvider"
+            ]
+        }
+    }
+}
