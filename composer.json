@@ -1,5 +1,5 @@
 {
-    "name": "avi/laravel-audit-by",
+    "name": "avie/laravel-audit-by",
     "description": "Automatically manage created_by, updated_by, and deleted_by fields in Laravel models",
     "type": "library",
     "license": "MIT",
