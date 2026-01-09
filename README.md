@@ -37,4 +37,4 @@ Designed to work with **Auth**, **session-based logins**, or **mixed systems**
 Install via Composer:
 
 ```bash
-composer require avi/laravel-audit-by
+composer require avie/laravel-audit-by
